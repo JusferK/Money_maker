@@ -1,0 +1,14 @@
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\bin\Debug\net8.0\moneymaker.exe
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\bin\Debug\net8.0\moneymaker.deps.json
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\bin\Debug\net8.0\moneymaker.runtimeconfig.json
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\bin\Debug\net8.0\moneymaker.dll
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\bin\Debug\net8.0\moneymaker.pdb
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\moneymaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\moneymaker.AssemblyInfoInputs.cache
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\moneymaker.AssemblyInfo.cs
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\moneymaker.csproj.CoreCompileInputs.cache
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\moneymaker.dll
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\refint\moneymaker.dll
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\moneymaker.pdb
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\moneymaker.genruntimeconfig.cache
+C:\Users\Justine\Desktop\VS\Codecademy\C#\moneymaker\moneymaker\obj\Debug\net8.0\ref\moneymaker.dll
